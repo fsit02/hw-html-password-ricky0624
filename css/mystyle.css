@@ -1,0 +1,30 @@
+body{
+    background-image: url(BGIM.jpg);
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+
+
+
+
+#randomTable_1 
+{
+    font-family : monospace ;
+    font-size   : 2.0em     ;
+}
+#randomTable_2 
+{
+    font-family : monospace ;
+    font-size   : 2.0em     ;
+}
+
+#randomTable_3
+{
+    font-family : monospace ;
+    font-size   : 2.0em     ;
+}
